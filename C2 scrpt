@@ -1,0 +1,9 @@
+// Fake "command and control" server script
+const fakeServer = "http://dark-server.phoenix:8080";
+
+function pingServer() {
+  console.log(`[DEBUG] Pinging ${fakeServer}...`);
+  // No actual connection made
+}
+
+pingServer();
