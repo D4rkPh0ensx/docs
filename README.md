@@ -1,2 +1,3 @@
-# Oops... exposed?  
-Check Pastebin for the **encrypted data**.  
+# Oops... exposed?  IDK
+just random garbage.
+Joljr Whzalipu mvy aol **lujyfwalk khah**.
